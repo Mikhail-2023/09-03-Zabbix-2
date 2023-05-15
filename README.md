@@ -65,4 +65,4 @@
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 #### Ответ
-1. [04-01](https://github.com/Mikhail-2023/09-03-Zabbix-2/blob/main/screen/04-01.PNG)
+1. ![04-01](https://github.com/Mikhail-2023/09-03-Zabbix-2/blob/main/screen/04-01.PNG)
