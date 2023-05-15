@@ -13,7 +13,7 @@
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 #### Ответ
-1. ![01-01](https://github.com/Mikhail-2023/09-03-Zabbix-2/edit/main/README.md)
+1. ![01-01](https://github.com/Mikhail-2023/09-03-Zabbix-2/blob/main/screen/01-01.PNG)
 
  ---
 
